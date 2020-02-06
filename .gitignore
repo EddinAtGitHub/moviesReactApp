@@ -1,0 +1,7 @@
+# IDE specific folders
+.idea
+
+# Distribution folders and files
+/build
+
+/node_modules/

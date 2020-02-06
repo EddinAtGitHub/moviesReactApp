@@ -1,0 +1,21 @@
+/* Profile */
+.profile-panel {
+    margin-top: 0;
+    color: white;
+    text-align: center;
+    background-color: #2699FB;
+    padding: 10px;
+}
+
+.user-picture {
+    width: 80px;
+    border-radius: 70%;
+}
+
+.user-name {
+    font-size: 25px;
+}
+
+.user-city {
+    font-size: 10px;
+}

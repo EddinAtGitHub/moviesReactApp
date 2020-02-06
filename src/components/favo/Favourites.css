@@ -1,0 +1,28 @@
+/* Favourites */
+.favo-panel {
+    margin-top: 0;
+    color: white;
+    text-align: center;
+    background-color: #2699FB;
+    padding: 10px;
+}
+
+.favo-title {
+    font-size: 20px;
+}
+
+.favo-items {
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.favo-item-container {
+    width: 100px;
+    margin: 10px;
+}
+
+.favo-item-name {
+    font-size: 12px;
+}

@@ -1,0 +1,14 @@
+.login-panel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px
+}
+
+.login-body-panel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #2699FB;
+    padding: 10px;
+}

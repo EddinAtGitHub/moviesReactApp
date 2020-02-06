@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font: normal 18px Garamond, Georgia, Arial, sans-serif;
+}
+
+.Grid-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}

@@ -1,0 +1,23 @@
+.film-title-panel {
+    background-color: #2699FB;
+    margin: 5px;
+}
+
+.film-list-swapi {
+   font-weight: bold;
+    background-color: #2699FB;
+}
+
+.film-list-panel {
+    padding: 4px;
+    overflow-y: auto;
+    background-color: #7fc4fd;
+    border-radius: 0;
+}
+
+.film-card {
+    border-radius: 0;
+    background-color: white;
+    padding: 5px;
+    margin-bottom: 7px;
+}

@@ -1,0 +1,11 @@
+# Dev environment
+.idea
+
+# Libraries and config files
+babel.config.js
+webpack.config.js
+node_modules
+resources
+
+# Built files
+build

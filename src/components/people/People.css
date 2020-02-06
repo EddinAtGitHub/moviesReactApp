@@ -1,0 +1,27 @@
+/* People */
+.people-list-panel {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 5px;
+}
+
+.people-card {
+    width: 280px;
+    text-align: center;
+    margin: 20px 0;
+    color: #fff;
+}
+
+.people-card-avatar {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.people-card-name {
+    font-weight: bold;
+}
+
+.people-body-info {
+    margin: 10px 0 20px 0;
+}

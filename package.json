@@ -1,0 +1,45 @@
+{
+	"name": "react-playground",
+	"version": "1.0.0",
+	"description": "Learning react is a pleasure",
+	"main": "app.js",
+	"scripts": {
+		"build": "webpack --mode production",
+		"dev": "webpack --mode development",
+		"lint": "eslint .",
+		"lint-fix": "eslint . --fix",
+		"start": "webpack-dev-server --open --mode development"
+	},
+	"repository": {
+		"type": "git",
+		"url": "http://bitbucket.scope.intern:7990/scm/sone/react-playground.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"react": "^16.10.2",
+		"react-dom": "^16.10.2",
+		"@material-ui/core": "^4.5.1",
+		"@material-ui/icons": "4.5.1",
+		"react-router-dom": "^5.0.1"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.6.4",
+		"@babel/plugin-proposal-class-properties": "^7.5.5",
+		"@babel/preset-env": "^7.6.3",
+		"@babel/preset-react": "^7.6.3",
+		"babel-eslint": "^10.0.3",
+		"babel-loader": "^8.0.6",
+		"babel-plugin-transform-runtime": "^6.23.0",
+		"css-loader": "^3.2.0",
+		"eslint": "^5.16.0",
+		"eslint-plugin-jsdoc": "^15.9.9",
+		"eslint-plugin-react": "^7.15.1",
+		"html-webpack-plugin": "^3.2.0",
+		"style-loader": "^1.0.0",
+		"webpack": "^4.41.1",
+		"webpack-cli": "^3.3.9",
+		"webpack-dev-server": "^3.8.2"
+	}
+}
